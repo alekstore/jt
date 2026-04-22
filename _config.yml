@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jrkull & Termux
+title: Jekyll & Termux
 email: op@ey.op
 description: >- # this means to ignore newlines until "baseurl:"
   Этот блог о возможности создания сайта "на коленке" 
