@@ -4,7 +4,7 @@ title:  "Termux заговорил"
 date:   2022-04-22 16:56:07 +0300
 categories: jekyll termux 
 ---
-## Хороший сегодня денек 2!
+## Хороший сегодня денек Yo!
 
 ![]({{"/assets/images/babochki_old.jpg" | relative_url}})
 
