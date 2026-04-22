@@ -4,3 +4,5 @@
 
 layout: home
 ---
+## Библиотека переехала!
+![library](/assets/images/library.jpg)
