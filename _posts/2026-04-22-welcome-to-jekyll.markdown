@@ -6,8 +6,9 @@ categories: jekyll update
 ---
 ## Хороший сегодня денек!
 
-![]({{"/assets/img/blog/babochka_boy.jpg" | relative_url}})
+![]({{"/assets/images/babochka_boy.jpg" | relative_url}})
 
-![](/assets/images/babochka_boy.jpg)
+![](../assets/images/babochka_boy.jpg)
+
 ### Попытка подружить termux и jekyll
   Ну захoтелось и все тут!
